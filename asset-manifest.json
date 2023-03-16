@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/%7BMarkdownPreview%7D/static/js/main.0969f846.js",
-    "index.html": "/%7BMarkdownPreview%7D/index.html",
-    "main.0969f846.js.map": "/%7BMarkdownPreview%7D/static/js/main.0969f846.js.map"
+    "main.js": "/MarkdownPreview/static/js/main.0969f846.js",
+    "index.html": "/MarkdownPreview/index.html",
+    "main.0969f846.js.map": "/MarkdownPreview/static/js/main.0969f846.js.map"
   },
   "entrypoints": [
     "static/js/main.0969f846.js"
